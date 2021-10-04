@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public Main() {
 		
-		System.out.println("hello6");
+		System.out.println("hello 2 on v1.1");
 	}
 
 	/**
