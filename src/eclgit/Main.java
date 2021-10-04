@@ -11,6 +11,7 @@ public class Main {
 		
 		// worked out on develop
 		
+		new Feat();
 	}
 
 	/**
