@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("hello 2 on main");
 		
 		// added on main
+
+		new Feat();
 	}
 
 	/**
