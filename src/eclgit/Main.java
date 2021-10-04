@@ -9,7 +9,8 @@ public class Main {
 		
 		System.out.println("hello 2 on v1.1");
 		
-		// added on main, merged from main
+		// worked out on develop
+		
 	}
 
 	/**
