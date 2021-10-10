@@ -1,4 +1,4 @@
 # EclGit
 EclGit
 
-Do not use this now until an alpha version exits
+Do not use this before an alpha version exists
